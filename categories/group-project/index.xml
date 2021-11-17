@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group Project | Henry Hu</title>
+    <link>http://henryhujj.org/categories/group-project/</link>
+      <atom:link href="http://henryhujj.org/categories/group-project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Group Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://henryhujj.org/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_3.png</url>
+      <title>Group Project</title>
+      <link>http://henryhujj.org/categories/group-project/</link>
+    </image>
+    
+    <item>
+      <title>Backbone Recognition</title>
+      <link>http://henryhujj.org/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://henryhujj.org/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;背景&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在如今的社會，AI不再是一個遙不可及的專有名詞或特別的領域，它已參與了我們許多的生活當中。而在醫學上也產生了一特殊領域&lt;em&gt;Medical image processing&lt;/em&gt;。
+&lt;em&gt;Medical Image Processing&lt;/em&gt; 是指透過電腦觀察人體以幫助醫生診斷、監測或治療的一種技術。
+其主要的好處在於它能對身體結構做出更進一步的探索，以改善患者的治療結果，幫助醫生做出更正確的診斷。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;目的&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;本專案的目的在於建構一 Mask R-CNN，用它來確定每個脊隨骨的位置，以此協助醫生判斷患者的病情，減少醫生的負擔。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-運用mask-r-cnn-model讓電腦主動判別脊隨位置&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;運用Mask R-CNN model讓電腦主動判別脊隨位置&#34; srcset=&#34;
+               /post/getting-started/backbone_hucc12c8a4410e6ebc0702065454c7fbb3_105458_84aad79d2c47998dc3eb6c6475c5056d.png 400w,
+               /post/getting-started/backbone_hucc12c8a4410e6ebc0702065454c7fbb3_105458_4c67751d87d2fb865f914c277eeb8e0b.png 760w,
+               /post/getting-started/backbone_hucc12c8a4410e6ebc0702065454c7fbb3_105458_1200x1200_fit_box_3.png 1200w&#34;
+               src=&#34;http://henryhujj.org/post/getting-started/backbone_hucc12c8a4410e6ebc0702065454c7fbb3_105458_84aad79d2c47998dc3eb6c6475c5056d.png&#34;
+               width=&#34;484&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      運用Mask R-CNN model讓電腦主動判別脊隨位置
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

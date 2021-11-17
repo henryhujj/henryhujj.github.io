@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Henry Hu</title>
+    <link>http://henryhujj.org/tags/deep-learning/</link>
+      <atom:link href="http://henryhujj.org/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://henryhujj.org/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_box_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>http://henryhujj.org/tags/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Covid-19 Prediction</title>
+      <link>http://henryhujj.org/project/covid-19/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://henryhujj.org/project/covid-19/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;該專案為預測美國地區Covid-19案件個數。藉由觀察美國某一洲過去三天的變數來預測該洲別第4天的Covid陽性百分比。
+其中，變數包括了行為因素、精神健康因素、是否有得到類似Covid疾病以及味覺因素共18項。&lt;/p&gt;
+&lt;h2 id=&#34;method&#34;&gt;Method&lt;/h2&gt;
+&lt;p&gt;該專案使用DNN Model 其中激勵函數使用 ReLU，並使用Adam調整learning rate的收斂。&lt;/p&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-learning-rate-curve&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Learning rate curve&#34; srcset=&#34;
+               /project/covid-19/Covid_hu0bd0273a6c4a11ab9dd53b3660584c41_17300_3a97971cd753491c5ef4198f433f5ffb.png 400w,
+               /project/covid-19/Covid_hu0bd0273a6c4a11ab9dd53b3660584c41_17300_bcd9a5e5fd41525a938b1515a4b93a95.png 760w,
+               /project/covid-19/Covid_hu0bd0273a6c4a11ab9dd53b3660584c41_17300_1200x1200_fit_box_3.png 1200w&#34;
+               src=&#34;http://henryhujj.org/project/covid-19/Covid_hu0bd0273a6c4a11ab9dd53b3660584c41_17300_3a97971cd753491c5ef4198f433f5ffb.png&#34;
+               width=&#34;366&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Learning rate curve
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-predict-vs-ground-true-value&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;predict vs ground true value&#34; srcset=&#34;
+               /project/covid-19/predict_huc8a1c83d1db8b0358ac95389a0db3538_21830_66ecb19087c854fb043705ea37f681ee.png 400w,
+               /project/covid-19/predict_huc8a1c83d1db8b0358ac95389a0db3538_21830_26c7d26a15278fd5192a4609bcaec201.png 760w,
+               /project/covid-19/predict_huc8a1c83d1db8b0358ac95389a0db3538_21830_1200x1200_fit_box_3.png 1200w&#34;
+               src=&#34;http://henryhujj.org/project/covid-19/predict_huc8a1c83d1db8b0358ac95389a0db3538_21830_66ecb19087c854fb043705ea37f681ee.png&#34;
+               width=&#34;330&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      predict vs ground true value
+    &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
